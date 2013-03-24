@@ -1,0 +1,5 @@
+To get 10001st prime number run:
+python2 app.py
+
+To get help run:
+python2 app.py -h
